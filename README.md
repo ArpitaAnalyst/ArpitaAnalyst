@@ -2,7 +2,7 @@
 
 # Hi, I'm Arpita Kadtane 👋
 
-**Data Analytics · Business Intelligence · Full-Stack Development**
+**Data Analytics · Business Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Email-arpitakadtane@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arpitakadtane@gmail.com)
