@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Email-arpitakadtane@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arpitakadtane@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/arpitakadtane?style=flat&color=181717&logo=github)](https://github.com)
+[![GitHub followers](https://img.shields.io/github/followers/arpitaanalyst?style=flat&color=181717&logo=github)](https://github.com)
 
 </div>
 
