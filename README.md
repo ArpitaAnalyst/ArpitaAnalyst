@@ -75,7 +75,7 @@
 
 ## 📊 GitHub Stats
 
-![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitakadtane\&show_icons=true\&locale=en)
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitaanalyst\&show_icons=true\&locale=en)
 
 ---
 
